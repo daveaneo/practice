@@ -1,3 +1,3 @@
-#!/usr/bin/env
+#!/usr/bin/env python3
 
-for i in range(10): print('Test: {i}')
+for i in range(10): print('Test: ' + str(i))
